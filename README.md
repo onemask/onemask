@@ -4,7 +4,7 @@
 ![onemask's github most language](https://github-readme-stats.vercel.app/api/top-langs/?username=onemask&layout=compact)
 
 
-[![onemask's github stats](https://github-readme-stats.vercel.app/api?username=onemask)](https://github.com/anuraghazra/github-readme-stats)
+[![onemask's github stats](https://github-readme-stats.vercel.app/api?username=onemask)](https://github.com/onemask/github-readme-stats)
 <!--
 **onemask/onemask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
